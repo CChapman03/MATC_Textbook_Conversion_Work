@@ -1,0 +1,8 @@
+# Username and Password for Kurzweil
+
+Username=USERNAMEHERE
+Password=PASSWORDHERE
+
+# Kurzweil Install Directory
+
+InstallDir=C:\\PATH\\TO\\KERZWEIL 3000.exe
